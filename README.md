@@ -11,7 +11,7 @@ Built using **Hybrid Retrieval**, **Knowledge Graphs**, **Cross-Encoder Re-Ranki
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![RAG](https://img.shields.io/badge/RAG-Hybrid-green)
-![GraphRAG](https://img.shields.io/badge/Graph-Assisted-RAG-purple)
+
 ![LLM](https://img.shields.io/badge/LLM-Gemini_2.5_Flash-orange)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-blue)
 ![Knowledge Graph](https://img.shields.io/badge/Knowledge-Graph-yellow)
