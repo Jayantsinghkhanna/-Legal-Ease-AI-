@@ -54,7 +54,10 @@ Traditional chatbots often:
 ❌ Struggle with legal reasoning  
 
 Legal-Ease solves these challenges using a **Graph-Assisted Hybrid RAG architecture**.
+---
+## 📸Preview
 
+![Dashboard](Legal_Ease.png)
 ---
 
 # ✨ Key Features
