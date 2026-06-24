@@ -1,0 +1,85 @@
+# Virtual Environment
+
+venv/
+.venv/
+
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Environment Variables
+
+.env
+.env.*
+
+# Streamlit
+
+.streamlit/secrets.toml
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# JetBrains
+
+.idea/
+
+# Logs
+
+*.log
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Hugging Face
+
+.cache/
+huggingface/
+hf_cache/
+
+# FAISS / Vector Databases
+
+*.faiss
+*.pkl
+vectorstore/
+db/
+
+# Temporary Files
+
+temp/
+tmp/
+*.tmp
+
+# Build Files
+
+build/
+dist/
+*.egg-info/
+
+# Model Files
+
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# PDFs (optional)
+
+# Uncomment if you don't want uploaded contracts tracked
+
+# data/contracts/
+
+# Secrets
+
+google_credentials.json
+service_account.json
+credentials.json
